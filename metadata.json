@@ -1,0 +1,6 @@
+{
+  "name": "Laboratório de Física - ES Viriato",
+  "description": "Plataforma de simuladores de Física do 12.º ano da Escola Secundária Viriato. Inclui Laboratório de Movimento (lançamento de projéteis), modo aluno com progresso e modo professor.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
